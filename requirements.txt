@@ -4,7 +4,6 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-numpy>=1.9.2
 scikit-learn>=0.18
 pandas>=0.19
 nltk>=3.4.5
@@ -13,4 +12,5 @@ Flask-WTF==0.14.2
 vaderSentiment==3.2.1
 six==1.11.0
 WTForms==2.2.1
+scipy==1.4.1
 requests
